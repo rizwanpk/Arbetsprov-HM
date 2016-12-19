@@ -1,7 +1,3 @@
-/**
- * Created by Rizwanyo on 12/9/2016.
- */
-
 (function () {
     "use strict";
     var substringMatcher = function (strs) {
